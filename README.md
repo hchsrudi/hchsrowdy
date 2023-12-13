@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hchsrowdy
-- 👀 I’m interested in Java, C++. C#, Python, Bash-Skript.
+- 👀 I’m interested in Java, C++, C#, Python and Bash-Skript.
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on Internetsecurity.
 - 📫 How to reach me r.hecht@uke.de
